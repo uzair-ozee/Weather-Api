@@ -1,0 +1,44 @@
+
+{
+    "coord": {
+        "lon": 67.0822,
+        "lat": 24.9056
+    },
+    "weather": [
+        {
+            "id": 721,
+            "main": "Haze",
+            "description": "haze",
+            "icon": "50n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 26.9,
+        "feels_like": 29.01,
+        "temp_min": 26.9,
+        "temp_max": 26.9,
+        "pressure": 1012,
+        "humidity": 74
+    },
+    "visibility": 4000,
+    "wind": {
+        "speed": 2.06,
+        "deg": 250
+    },
+    "clouds": {
+        "all": 2
+    },
+    "dt": 1666278016,
+    "sys": {
+        "type": 1,
+        "id": 7576,
+        "country": "PK",
+        "sunrise": 1666229513,
+        "sunset": 1666270849
+    },
+    "timezone": 18000,
+    "id": 1174872,
+    "name": "Karachi",
+    "cod": 200
+}
